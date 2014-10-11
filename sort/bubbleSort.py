@@ -7,4 +7,3 @@ def bubbleSort(arr, len):
                 arr[i], arr[i - 1] = arr[i - 1], arr[i]
                 changed = True
     return arr
-    
