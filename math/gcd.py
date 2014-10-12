@@ -1,17 +1,6 @@
-def gcd(a, b):
-    """Calculates the gcd recursively using Euclid's algorithm."""
-    if a < 0:
-        a *= -1
-    if b < 0:
-        b *= -1
-    if b == 0:
-        return a
-    return gcd(b, a % b)
-
 def exgcd(a, b):
     """Uses the extended Euclidean algorithm to return
     the gcd as well as the solutions to Bézout's identity:
-
     coefficients x and y such that ax + by = gcd(a, b)."""
     x, y = 0, 1
     u, v = 1, 0
