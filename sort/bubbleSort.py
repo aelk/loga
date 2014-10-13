@@ -1,4 +1,4 @@
-def bubbleSort(arr, len):
+def sort(arr, len):
     changed = True
     while changed:
         changed = False
