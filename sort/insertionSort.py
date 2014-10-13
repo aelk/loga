@@ -1,4 +1,4 @@
-def insertionSort(arr):
+def sort(arr):
     for i in range(0, len(arr)):
         temp = arr[i]
         while (i > 0) and (temp < arr[i-1]):
