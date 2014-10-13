@@ -1,6 +1,6 @@
 import heapq
 
-def mergeSort(arr):
+def sort(arr):
 	"""Merge sort splits the input into two arrays,
 	recursively sorts each array, and then combines the two
 	with a merge subroutine (in this case from heapq)."""
