@@ -14,3 +14,4 @@ Available algorithms:
 **Sorting:**
 - Bubble Sort
 - Insertion Sort
+- Merge Sort
