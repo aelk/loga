@@ -1,5 +1,5 @@
 def sort(arr):
-	"""Quicksort first requires a pivot to be used as a comparison.
+    """Quicksort first requires a pivot to be used as a comparison.
 	The array is then split into two parts. The elements of the first part
 	are smaller than the pivot, and those of the second part are greater than it.
 	Each part is recursively sorted, and joining them to the pivot is the sorted array."""
