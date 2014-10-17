@@ -10,6 +10,7 @@ Available algorithms:
 - Extended GCD
 - Multiplicative modular inverse
 - Least common multiple
+- Primality check
 
 **Sorting:**
 - Bubble Sort
