@@ -17,3 +17,6 @@ Available algorithms:
 - Insertion Sort
 - Merge Sort
 - Quicksort
+
+**Searching:**
+- Binary Search
