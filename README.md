@@ -22,3 +22,4 @@ Available algorithms:
 
 **Searching:**
 - Binary Search
+- Interpolation Search
