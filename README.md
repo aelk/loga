@@ -13,10 +13,11 @@ Available algorithms:
 - Primality check
 
 **Sorting:**
-- Bubble Sort
-- Insertion Sort
 - Merge Sort
 - Quicksort
+- Bubble Sort
+- Insertion Sort
+- Bogosort
 
 **Searching:**
 - Binary Search
