@@ -10,6 +10,7 @@ Available algorithms:
 - Extended GCD
 - Multiplicative modular inverse
 - Least common multiple
+- Prime generation
 - Primality check
 
 **Sorting:**
