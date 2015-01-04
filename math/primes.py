@@ -1,4 +1,4 @@
-def genPrimes(n):
+def listPrimes(n):
 	'''Returns a list of primes below n.'''
 	numbers = set(range(n, 1, -1))
 	primes = []
