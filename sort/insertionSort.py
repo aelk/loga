@@ -5,3 +5,4 @@ def sort(arr):
             arr[i] = arr[i-1]
             i -= 1
         arr[i] = temp
+    return arr
