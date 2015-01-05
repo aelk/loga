@@ -8,6 +8,6 @@ def search(A, key, low = 0, high = None):
         
     if high is None:
         high = len(A) - 1
+        
     pos = bisect_left(A, key, low, high)
-    
     return pos if (A[pos] == key) else -1
